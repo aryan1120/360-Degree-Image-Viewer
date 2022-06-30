@@ -5,7 +5,7 @@ const viewer = new PANOLENS.Viewer({
   container: imageContainer,
   autoRotate: true,
   autoRotateSpeed: 0.3,
-  controlBar: false,
+//   controlBar: false,
 });
 
 viewer.add(panoramaImage);
